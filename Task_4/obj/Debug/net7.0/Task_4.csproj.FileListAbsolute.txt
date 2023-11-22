@@ -1,0 +1,14 @@
+D:\C# Hometask\project_skv\Task_4\bin\Debug\net7.0\Task_4.exe
+D:\C# Hometask\project_skv\Task_4\bin\Debug\net7.0\Task_4.deps.json
+D:\C# Hometask\project_skv\Task_4\bin\Debug\net7.0\Task_4.runtimeconfig.json
+D:\C# Hometask\project_skv\Task_4\bin\Debug\net7.0\Task_4.dll
+D:\C# Hometask\project_skv\Task_4\bin\Debug\net7.0\Task_4.pdb
+D:\C# Hometask\project_skv\Task_4\obj\Debug\net7.0\Task_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Hometask\project_skv\Task_4\obj\Debug\net7.0\Task_4.AssemblyInfoInputs.cache
+D:\C# Hometask\project_skv\Task_4\obj\Debug\net7.0\Task_4.AssemblyInfo.cs
+D:\C# Hometask\project_skv\Task_4\obj\Debug\net7.0\Task_4.csproj.CoreCompileInputs.cache
+D:\C# Hometask\project_skv\Task_4\obj\Debug\net7.0\Task_4.dll
+D:\C# Hometask\project_skv\Task_4\obj\Debug\net7.0\refint\Task_4.dll
+D:\C# Hometask\project_skv\Task_4\obj\Debug\net7.0\Task_4.pdb
+D:\C# Hometask\project_skv\Task_4\obj\Debug\net7.0\Task_4.genruntimeconfig.cache
+D:\C# Hometask\project_skv\Task_4\obj\Debug\net7.0\ref\Task_4.dll
